@@ -13,7 +13,8 @@ Detects human faces in real-time using Haar Cascades or MediaPipe.
 🛠️ **Tools**: OpenCV, HaarCascade  
 ✅ **Status**: Completed  
 📸 **Screenshot**:  
-![Face Detection](screenshots/face_detection.png)
+![Face Detection]<img width="1920" height="1080" alt="Screenshot (403)" src="https://github.com/user-attachments/assets/83af0686-1b68-484c-9d03-cf2bd75e61d8" />
+
 
 ---
 
@@ -22,7 +23,8 @@ Maps 468 facial landmarks on the face, useful for AR filters, emotion detection,
 🛠️ **Tools**: MediaPipe Face Mesh  
 ✅ **Status**: Completed  
 📸 **Screenshot**:  
-![Face Mesh](screenshots/face_mesh.png)
+![Face Mesh]<img width="1920" height="1080" alt="Screenshot (402)" src="https://github.com/user-attachments/assets/441467c2-d99f-4ac0-94be-aefd52914a76" />
+
 
 ---
 
@@ -31,7 +33,8 @@ Tracks hand landmarks in real-time and detects gestures.
 🛠️ **Tools**: MediaPipe Hands  
 ✅ **Status**: Completed  
 📸 **Screenshot**:  
-![Hand Tracking](screenshots/hand_tracking.png)
+![Hand Tracking]<img width="1920" height="1080" alt="Screenshot (405)" src="https://github.com/user-attachments/assets/1d75a1b3-d13f-4331-bcda-bcbaf62e67c3" />
+
 
 ---
 
@@ -40,7 +43,8 @@ Control your system volume using finger gestures by measuring the distance betwe
 🛠️ **Tools**: MediaPipe + Pycaw + PyAutoGUI  
 ✅ **Status**: Completed  
 📸 **Screenshot**:  
-![Volume Gesture](screenshots/volume_gesture.png)
+![Volume Gesture]<img width="1920" height="1080" alt="Screenshot (411)" src="https://github.com/user-attachments/assets/80e586b5-ed2f-4b32-bad7-2aee1475194f" />
+
 
 ---
 
